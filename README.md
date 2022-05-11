@@ -16,9 +16,12 @@ A simple game about Barry, a profesional snowboarder who wishes to practice his 
 
 
 ## Demo
-
-
-
+### Casually Snowboarding
+![](images/pic1.jpg)
+### A crash 
+![](images/pic2.jpg)
+### Finish Line 
+![](images/pic3.jpg)
 
 
 
